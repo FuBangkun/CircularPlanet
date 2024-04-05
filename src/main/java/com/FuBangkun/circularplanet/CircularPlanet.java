@@ -11,12 +11,13 @@ import org.apache.logging.log4j.Logger;
     version = "1.0.0",
     acceptedMinecraftVersions = "[1.12.2]",
     dependencies =
-        "required-after:forge@[14.23.5.2860,);" +
-        "required-after:galacticraftcore@[4.0.6,);" +
-        "after:galaxyspace;" +
-        "after:exoplanets;" +
-        "after:moreplanets;" +
-        "after:asmodeuscore"
+            "required-after:forge@[14.23.5.2860,);" +
+                    "required-after:galacticraftcore@[4.0.6,);" +
+                    "after:galaxyspace;" +
+                    "after:exoplanets;" +
+                    "after:moreplanets;" +
+                    "after:asmodeuscore;" +
+                    "after:starmaker"
 )
 public class CircularPlanet {
     @EventHandler

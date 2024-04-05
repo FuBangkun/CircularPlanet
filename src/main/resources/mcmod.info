@@ -1,12 +1,11 @@
 [
 {
-  "modid": "Circular Planet",
+  "modid": "circularplanet",
   "name": "Circular Planet",
   "description": "Circular planet textures for galacticraft.",
   "version": "1.0.0",
   "mcversion": "1.12.2",
-  "authorList": ["FuBangkun"],
-  "credits": "mMONTAGEe-Workshop",
+  "authorList": ["FuBangkun", "mMONTAGEe"],
   "logoFile": "logo.png"
 }
 ]
