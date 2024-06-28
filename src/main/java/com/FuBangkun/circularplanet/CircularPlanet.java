@@ -17,7 +17,8 @@ import org.apache.logging.log4j.Logger;
                     "after:exoplanets;" +
                     "after:moreplanets;" +
                     "after:asmodeuscore;" +
-                    "after:starmaker"
+                    "after:starmaker;" +
+                    "after:sol"
 )
 public class CircularPlanet {
     @EventHandler
