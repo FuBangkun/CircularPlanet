@@ -8,7 +8,7 @@ import org.apache.logging.log4j.Logger;
 @Mod(
     modid = "circularplanet",
     name = "Circular Planet",
-    version = "1.0.1",
+    version = "1.0.2",
     acceptedMinecraftVersions = "[1.12.2]",
     dependencies =
             "required-after:galacticraftcore;" +
@@ -18,6 +18,7 @@ import org.apache.logging.log4j.Logger;
                     "after:moreplanets;" +
                     "after:asmodeuscore;" +
                     "after:starmaker;" +
+                    "after:moreplanets;" +
                     "after:sol"
 )
 public class CircularPlanet {
