@@ -18,6 +18,7 @@ import org.apache.logging.log4j.Logger;
                     "after:moreplanets;" +
                     "after:asmodeuscore;" +
                     "after:starmaker;" +
+                    "after:moreplanets;" +
                     "after:sol"
 )
 public class CircularPlanet {
